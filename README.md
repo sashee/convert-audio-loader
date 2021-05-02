@@ -1,4 +1,4 @@
-# WebPack loader to to convert an audio file to a different formap
+# WebPack loader to to convert an audio file to a different format
 
 It requires ffmpeg to be installed
 
