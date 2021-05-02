@@ -1,0 +1,25 @@
+{
+  "name": "convert-audio-loader",
+  "version": "1.0.0",
+  "description": "WebPack loader to convert an audio file to a different format",
+  "main": "index.js",
+	"keywords": [
+    "webpack",
+    "loader",
+    "audio conversion",
+    "ffmpeg"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+	"repository": "github:sashee/convert-audio-loader",
+  "author": {
+    "name": "Tamas Sallai",
+    "url": "https://advancedweb.hu/"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "find-cache-dir": "^3.3.1",
+    "loader-utils": "^2.0.0"
+  }
+}
