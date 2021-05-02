@@ -14,7 +14,7 @@ In the WebPack config, add the loader and configure what extension you want the 
 
 ```
 {
-  test: /\.mp3$/,
+  test: /\.wav$/,
   use: [
     {
       loader: require.resolve('file-loader'),
