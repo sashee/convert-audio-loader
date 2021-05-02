@@ -33,6 +33,6 @@ Note that the loader gets an audio file and outputs the wav directly without emi
 
 ## Configuration
 
-You can set 3 values:
+You can set 1 value:
 
 * ```extension```: The target extension
