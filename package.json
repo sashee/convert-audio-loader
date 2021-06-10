@@ -1,9 +1,9 @@
 {
   "name": "convert-audio-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WebPack loader to convert an audio file to a different format",
   "main": "index.js",
-	"keywords": [
+  "keywords": [
     "webpack",
     "loader",
     "audio conversion",
@@ -12,7 +12,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-	"repository": "github:sashee/convert-audio-loader",
+  "repository": "github:sashee/convert-audio-loader",
   "author": {
     "name": "Tamas Sallai",
     "url": "https://advancedweb.hu/"
